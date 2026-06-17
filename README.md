@@ -1,6 +1,6 @@
 # TrolleyBench ⚖️
 
-**An ethics-first benchmark that stress-tests alignment proposals against 2,500 years of moral philosophy.**
+**An ethics-first benchmark that stress-tests alignment proposals against 2,500+ years of moral philosophy.**
 
 ---
 
