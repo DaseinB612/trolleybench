@@ -2,7 +2,8 @@
 
 **An ethics-first benchmark that stress-tests alignment proposals against 2,500 years of moral philosophy.**
 
-🔗 **[Live Demo](https://moral-metric-lab.base44.app)**
+🔗 **[Live Demo](https://moral-metric-lab.base44.app)** 
+🔗 **[Writeup](https://postalignment.substack.com/p/trolleybench-a-cross-cultural-ai?)** 
 
 ---
 
